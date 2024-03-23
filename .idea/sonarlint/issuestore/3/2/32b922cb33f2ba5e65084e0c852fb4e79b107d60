@@ -1,0 +1,10 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(şæİşÿÿÿÿ8œÚ–æ1
+H
+java:S1874"+Remove this use of "URL"; it is deprecated.(´×üÔ8¦œÚ–æ1
+]	java:S1254"<This block of commented-out lines of code should be removed.(î½Ü‚ÿÿÿÿÿ8«œÚ–æ1
+]	java:S1256"<This block of commented-out lines of code should be removed.(²öÏûÿÿÿÿ8¼µÚ–æ1
+P
+java:S1128"3Remove this unused import 'org.openqa.selenium.By'.(ÿŠŞ›8«œÚ–æ1
+W
+java:S1128	":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™ş8«œÚ–æ1
